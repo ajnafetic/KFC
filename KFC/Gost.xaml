@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KFC.Gost">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image  Source="/logo.jpg" HeightRequest="150" WidthRequest="150" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            <ImageButton Source="delivery.jpg" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="100" Clicked="Button_Clicked" Margin="0,30,0,0"></ImageButton>
+            <Label Text="Dostava" HorizontalOptions="Center" VerticalOptions="Center" FontSize="16" FontAttributes="Bold" Margin="0,0,0,10"></Label>
+            <ImageButton Source="restoran.jpg" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="100" Clicked="Button_Clicked"></ImageButton>
+            <Label Text="Preuzmi u restoranu" HorizontalOptions="Center" VerticalOptions="Center" FontSize="16" FontAttributes="Bold"></Label>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

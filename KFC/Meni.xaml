@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KFC.Meni">
+  <!--Pages can be added as references or inline-->
+    
+    <ContentPage Title="Sendviči" >
+        <StackLayout>
+           <Image  Source="slova.jpg" HeightRequest="30"  Margin="0,10,0,0"/>
+            
+            <Grid  ColumnSpacing="10" RowSpacing="5" Margin="0" Padding="0">
+
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                
+                <Image  Source="Wrapper.jpg" Grid.Row="1" Grid.Column="0"></Image>
+                <Label Text="Wrapper Sandwich 3KM" Grid.Row="1" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked"></ImageButton>
+
+                <Image  Source="tostada.jpg" Grid.Row="2" Grid.Column="0"></Image>
+                <Label Text="Tostada 5KM" Grid.Row="2" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_1"></ImageButton>
+
+                <Image  Source="zinger.jpg" Grid.Row="3" Grid.Column="0"></Image>
+                <Label Text="Zinger sandwich 5KM" Grid.Row="3" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="3" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_2"></ImageButton>
+
+                <Image  Source="twister.jpg" Grid.Row="4" Grid.Column="0"></Image>
+                <Label Text="Twister sandwich 6KM" Grid.Row="4" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="4" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_3"></ImageButton>
+
+
+                <Image  Source="cheseburger.png" Grid.Row="5" Grid.Column="0"></Image>
+                <Label  Text="CheeseBurger 5KM" Grid.Row="5" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton  Source="add.png" Grid.Row="5" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_4" ></ImageButton>
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Korpice">
+
+        <StackLayout>
+        <Image  Source="slova.jpg" HeightRequest="30"  Margin="0,10,0,0"/>
+
+        <Grid  ColumnSpacing="10" RowSpacing="5" Margin="0" Padding="0">
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+            <Image  Source="krilca.png" Grid.Row="1" Grid.Column="0"></Image>
+            <Label Text="20 krilca 8KM" Grid.Row="1" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <ImageButton Source="add.png" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_5"></ImageButton>
+
+            <Image  Source="krilcaa.png" Grid.Row="2" Grid.Column="0"></Image>
+            <Label Text="30 krilca 12KM" Grid.Row="2" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <ImageButton Source="add.png" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_6"></ImageButton>
+
+            <Image  Source="kentucky.jpg" Grid.Row="3" Grid.Column="0"></Image>
+            <Label Text="Kentucky Bucket 15KM" Grid.Row="3" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <ImageButton Source="add.png" Grid.Row="3" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_7"></ImageButton>
+
+            <Image  Source="strips.jpg" Grid.Row="4" Grid.Column="0"></Image>
+            <Label Text="Strpis bucket 13KM" Grid.Row="4" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <ImageButton Source="add.png" Grid.Row="4" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_8"></ImageButton>
+
+
+            <Image  Source="classic.jpg" Grid.Row="5" Grid.Column="0"></Image>
+            <Label Text="Classic bucket 15KM" Grid.Row="5" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <ImageButton Source="add.png" Grid.Row="5" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_9"></ImageButton>
+        </Grid>
+
+        </StackLayout>
+
+    </ContentPage>
+    <ContentPage Title="Piće">
+        <StackLayout>
+            <Image  Source="slova.jpg" HeightRequest="30"  Margin="0,10,0,0"/>
+
+            <Grid  ColumnSpacing="10" RowSpacing="5" Margin="0" Padding="0">
+
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+                <Image  Source="shake_2.png" Grid.Row="1" Grid.Column="0"></Image>
+                <Label Text="Jagoda Shake 4KM" Grid.Row="1" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_10"></ImageButton>
+
+                <Image  Source="shake_1.jpg" Grid.Row="2" Grid.Column="0"></Image>
+                <Label Text="Orange Shake 4KM" Grid.Row="2" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_11"></ImageButton>
+
+                <Image  Source="shake_3.jpg" Grid.Row="3" Grid.Column="0"></Image>
+                <Label Text="Frozen Shake 6KM" Grid.Row="3" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="3" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_12"></ImageButton>
+
+                <Image  Source="shake_4.jpg" Grid.Row="4" Grid.Column="0"></Image>
+                <Label Text="Oreo Shake 5KM" Grid.Row="4" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="4" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_13"></ImageButton>
+
+
+                <Image  Source="shake_5.jpg" Grid.Row="5" Grid.Column="0"></Image>
+                <Label Text="Caffe Americano 3KM" Grid.Row="5" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="5" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_14"></ImageButton>
+            </Grid>
+
+        </StackLayout>
+
+    </ContentPage>
+    <ContentPage Title="Prilozi" >
+        <StackLayout>
+            <Image  Source="slova.jpg" HeightRequest="30"  Margin="0,10,0,0"/>
+
+            <Grid  ColumnSpacing="10" RowSpacing="5" Margin="0" Padding="0">
+
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+                <Image  Source="prilozi1.jpg" Grid.Row="1" Grid.Column="0"></Image>
+                <Label Text="Pomfrit 2KM" Grid.Row="1" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_15"></ImageButton>
+
+                <Image  Source="prilozi2.jpg" Grid.Row="2" Grid.Column="0"></Image>
+                <Label Text="Chilli sos 1KM" Grid.Row="2" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_16"></ImageButton>
+
+                <Image  Source="prilozi3.jpg" Grid.Row="3" Grid.Column="0"></Image>
+                <Label Text="Kečap 1KM" Grid.Row="3" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="3" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_17"></ImageButton>
+
+                <Image  Source="prilozi4.jpg" Grid.Row="4" Grid.Column="0"></Image>
+                <Label Text="Majoneza 1KM" Grid.Row="4" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="4" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_18"></ImageButton>
+
+
+                <Image  Source="prilozi5.jpg" Grid.Row="5" Grid.Column="0"></Image>
+                <Label Text="Kukuruz 2KM" Grid.Row="5" Grid.Column="1"  Margin="30,0,0,0" FontAttributes="Bold" FontSize="16" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <ImageButton Source="add.png" Grid.Row="5" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="30" CornerRadius="10" Clicked="ImageButton_Clicked_19"></ImageButton>
+            </Grid>
+
+        </StackLayout>
+        
+    </ContentPage>
+               
+    
+</TabbedPage>

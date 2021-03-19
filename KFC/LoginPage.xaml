@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KFC.LoginPage">
+    <StackLayout>
+        <Image  Source="/logo.jpg" HeightRequest="150" WidthRequest="150" HorizontalOptions="Center" VerticalOptions="Center"/>
+        
+        <Label Text="Ime" x:Name="Lbl_Username" Margin="0,50,0,0" FontAttributes="Bold"></Label>
+        <Entry Placeholder="Username" x:Name="Entry_Username"></Entry>
+        <Label Text="Password" x:Name="Lbl_Password" FontAttributes="Bold"></Label>
+        <Entry Placeholder="Password" x:Name="Entry_Password" IsPassword="true"></Entry>
+
+
+        <Button Text="Prijavi se" x:Name="Btn_SignIn" Clicked="SignInProcedure"></Button>
+        
+    </StackLayout>
+</ContentPage>

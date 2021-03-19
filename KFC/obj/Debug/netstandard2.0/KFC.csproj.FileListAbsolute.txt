@@ -1,0 +1,68 @@
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.deps.json
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.dll
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\bin\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.pdb
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csprojAssemblyReference.cache
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfoInputs.cache
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfo.cs
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.dll
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\XY\Desktop\fax\3. godina 1. semestar\RMA\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.pdb
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.deps.json
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.dll
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.pdb
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csprojAssemblyReference.cache
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfoInputs.cache
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfo.cs
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.dll
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.pdb
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Gost.xaml.g.cs
+C:\Users\koriisnik\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Meni.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.deps.json
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.dll
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.pdb
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csprojAssemblyReference.cache
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Gost.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Meni.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfoInputs.cache
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfo.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.dll
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.pdb
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Registracija.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Korpa.xaml.g.cs
+C:\Users\Focus-06\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Placanje.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.deps.json
+C:\Users\XY\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.dll
+C:\Users\XY\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\XY\Desktop\KFC\KFC\KFC\bin\Debug\netstandard2.0\KFC.pdb
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.csprojAssemblyReference.cache
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Gost.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Korpa.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Meni.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Placanje.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\Registracija.xaml.g.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfoInputs.cache
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.AssemblyInfo.cs
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.dll
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\ref\KFC.dll
+C:\Users\XY\Desktop\KFC\KFC\KFC\obj\Debug\netstandard2.0\KFC.pdb
